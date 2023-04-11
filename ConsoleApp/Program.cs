@@ -11,8 +11,8 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            bool iscat;
-            byte veryShortHexNumber;
+            bool isСat;
+            byte electronicAnimalTagNumber; 
             string animalName;
             char firstLetterAnimalName;
             short countCat;
